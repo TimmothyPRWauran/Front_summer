@@ -1,7 +1,4 @@
-import React, {useState, useEffect} from "react";
-
-
-
+import React from "react";
 
 export default function Header(){
     
@@ -21,12 +18,7 @@ return(
   <p>Hobi           : Gaming</p>
   <p>Tgl.Lahir      : 19/10/2002</p>
   <p>Agama          : kristen Advent</p>
-  <label>Kota asal</label>
-  <select>
-    <option value="Manado">Manado</option>
-    <option value="Konoha">Tondano</option>
-    <option value="Tomohon">Tomohon</option>
-  </select>
+  <br></br>
 </div>
 
     </>
