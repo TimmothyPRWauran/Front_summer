@@ -1,0 +1,56 @@
+h3{
+    color:white;
+    letter-spacing: 7px;
+
+}
+h3:hover{
+    color: blue;
+    background-color: wheat;
+}
+p{
+color: white;
+}
+body {
+    background-color: rgb(45, 43, 196);
+    font-family:'Times New Roman', Times, serif;
+    border-style:solid;
+    border-color: whitesmoke;
+    border-width: 7px;
+}
+p{
+    font-size:2rem;
+}
+
+@media screen and (max-width: 800px){
+    h1{
+        font-size: 3rem;
+    }
+    p{
+        font-size: 2rem;
+        letter-spacing: 5px;
+    }
+}
+@media screen and (max-width:400px)
+{
+    img{
+        display: block;
+    }
+}
+
+table{
+    color: white;
+    
+}
+table:hover{
+    color: white;
+}
+a[href]:hover{
+    color:black;
+}
+label{
+    color: white;
+}
+i:hover{
+    color: lightskyblue;
+}
+
