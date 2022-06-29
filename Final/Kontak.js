@@ -12,6 +12,7 @@ return (
   <hr />
   <h2>Favorite Web</h2>
   <p><a href="https://62.182.83.93/">Situs Favorite</a></p>
+  <p><a href="https://github.com/TimmothyPRWauran/Front_summer">My Github</a></p>
   <hr />
   <br /><br />
 </div>
